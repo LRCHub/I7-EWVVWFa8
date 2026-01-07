@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "枕元にゴースト",
+  "base_artist": "Yunomi",
+  "createdAt": "2026-01-07T12:13:48.523672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "枕元にゴースト (feat. nicamoq)",
+      "artist": "Yunomi",
+      "has_synced": true,
+      "path": "select/01_枕元にゴースト_(feat._nicamoq)_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "枕元にゴースト",
+      "artist": "Aiobahn & Yunomi feat. nicamoq",
+      "has_synced": true,
+      "path": "select/02_枕元にゴースト_Aiobahn_&_Yunomi_feat._nicamoq.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "枕元にゴースト",
+      "artist": "Yunomi/nicamoq",
+      "has_synced": true,
+      "path": "select/03_枕元にゴースト_Yunomi_nicamoq.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "枕元にゴースト",
+      "artist": "Yunomi",
+      "has_synced": true,
+      "path": "select/04_枕元にゴースト_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "枕元にゴースト",
+      "artist": "Aiobahn; Yunomi; nicamoq",
+      "has_synced": true,
+      "path": "select/05_枕元にゴースト_Aiobahn;_Yunomi;_nicamoq.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "枕元にゴースト",
+      "artist": "Aiobahn & Yunomi",
+      "has_synced": false,
+      "path": "select/06_枕元にゴースト_Aiobahn_&_Yunomi.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "枕元にゴースト",
+      "artist": "Aiobahn & Yunomi",
+      "has_synced": true,
+      "path": "select/07_枕元にゴースト_Aiobahn_&_Yunomi.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "枕元にゴースト (feat. nicamoq)",
+      "artist": "Aiobahn & Yunomi",
+      "has_synced": true,
+      "path": "select/08_枕元にゴースト_(feat._nicamoq)_Aiobahn_&_Yunomi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "枕元にゴースト",
+      "artist": "Yunomi, Aiobahn",
+      "has_synced": false,
+      "path": "select/pl_01_枕元にゴースト_Yunomi,_Aiobahn.txt"
+    }
+  ]
+}
